@@ -24,7 +24,7 @@
 <odeProperties>
   <odeProperty>
     <key>pp_title</key>
-    <value>ADA: Tecnologías de Información y Comunicación para Trabajo Social - Paredes Zamudio</value>
+    <value>Tecnologías de Información y Comunicación para Trabajo Social</value>
   </odeProperty>
   <odeProperty>
     <key>pp_subtitle</key>
@@ -60,7 +60,7 @@
   </odeProperty>
   <odeProperty>
     <key>pp_modified</key>
-    <value>1790290626526</value>
+    <value>1790609815166</value>
   </odeProperty>
   <odeProperty>
     <key>pp_addExeLink</key>
@@ -167,10 +167,10 @@
           <odeIdeviceId>idevice-mp38wfg5-wlwf4cwax</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
           <htmlView><![CDATA[<div class="exe-text-template">
-    <p>Desde su aparición, la Inteligencia Artificial Generativa (IAGen) ha impactado en diversos ámbitos de la vida de las personas y la educación no ha sido la excepción. En los últimos años el personal docente se ha tenido que enfrentar a la irrupción de la IAGen en el aula. Es claro que el estudiantado la utiliza, pero ¿de qué forma? ¿Cómo conceptualizan su uso en las actividades académicas? Más aún, ¿Cómo podría el profesorado hacer un uso didáctico de la IAGen?</p>
-<p>Con este curso-taller se busca que las personas docentes reconozcan cómo es que la IAGen tiene presencia en el aula y de qué forma ellas podrían plantear estrategias didácticas para que el uso de esta tecnología no se centre en el instrumentalismo, sino que se utilice como un insumo para plantear cuestionamientos y reflexiones que contribuyan a construir un aprendizaje profundo.</p>
+    <p>En la era digital, la intervención social no puede entenderse sin el respaldo de las herramientas tecnológicas.</p>
+<p>Bienvenidos al curso "Tecnologías de la Información y Comunicación (TIC) para el Trabajo Social", un espacio formativo diseñado para dotar a los futuros y actuales profesionales del Trabajo Social de las competencias digitales necesarias para potenciar su impacto en las comunidades. Este curso no solo aborda el uso de programas o dispositivos, sino que reflexiona sobre la tecnología como un medio para garantizar derechos, analizar realidades complejas y diseñar estrategias de intervención innovadoras.</p>
 </div>]]></htmlView>
-          <jsonProperties><![CDATA[{"ideviceId":"idevice-mp38wfg5-wlwf4cwax","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Desde su aparición, la Inteligencia Artificial Generativa (IAGen) ha impactado en diversos ámbitos de la vida de las personas y la educación no ha sido la excepción. En los últimos años el personal docente se ha tenido que enfrentar a la irrupción de la IAGen en el aula. Es claro que el estudiantado la utiliza, pero ¿de qué forma? ¿Cómo conceptualizan su uso en las actividades académicas? Más aún, ¿Cómo podría el profesorado hacer un uso didáctico de la IAGen?</p>\n<p>Con este curso-taller se busca que las personas docentes reconozcan cómo es que la IAGen tiene presencia en el aula y de qué forma ellas podrían plantear estrategias didácticas para que el uso de esta tecnología no se centre en el instrumentalismo, sino que se utilice como un insumo para plantear cuestionamientos y reflexiones que contribuyan a construir un aprendizaje profundo.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-mp38wfg5-wlwf4cwax","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>En la era digital, la intervención social no puede entenderse sin el respaldo de las herramientas tecnológicas.</p>\n<p>Bienvenidos al curso \"Tecnologías de la Información y Comunicación (TIC) para el Trabajo Social\", un espacio formativo diseñado para dotar a los futuros y actuales profesionales del Trabajo Social de las competencias digitales necesarias para potenciar su impacto en las comunidades. Este curso no solo aborda el uso de programas o dispositivos, sino que reflexiona sobre la tecnología como un medio para garantizar derechos, analizar realidades complejas y diseñar estrategias de intervención innovadoras.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
             <odeComponentsProperty>
@@ -570,9 +570,9 @@
 <p><strong>Actividades obligatorias - 40 %</strong></p>
 <p>Se promediarán las calificaciones de todas las actividades de aprendizaje realizadas durante el curso-taller.</p>
 <p><strong>Producto final - 60 %</strong></p>
-<p>Durante el curso-taller se irá construyendo una secuencia didáctica en la que la persona participante irá incorporando el uso de algunas herramientas de IAGen que sirvan para alcanzar el objetivo de aprendizaje.</p>
+<p>Durante el curso-taller se irá construyendo una secuencia didáctica en la que la persona participante irá incorporando el uso de algunas herramientas de TICs que sirvan para alcanzar el objetivo de aprendizaje.</p>
 </div>]]></htmlView>
-          <jsonProperties><![CDATA[{"ideviceId":"idevice-mp38wfg5-6fjtintd8","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>A continuación se muestra el valor porcentual de las actividades que se desarrollarán en este curso-taller.<br /></p>\n<p><strong>Actividades obligatorias - 40 %</strong></p>\n<p>Se promediarán las calificaciones de todas las actividades de aprendizaje realizadas durante el curso-taller.</p>\n<p><strong>Producto final - 60 %</strong></p>\n<p>Durante el curso-taller se irá construyendo una secuencia didáctica en la que la persona participante irá incorporando el uso de algunas herramientas de IAGen que sirvan para alcanzar el objetivo de aprendizaje.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-mp38wfg5-6fjtintd8","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>A continuación se muestra el valor porcentual de las actividades que se desarrollarán en este curso-taller.<br /></p>\n<p><strong>Actividades obligatorias - 40 %</strong></p>\n<p>Se promediarán las calificaciones de todas las actividades de aprendizaje realizadas durante el curso-taller.</p>\n<p><strong>Producto final - 60 %</strong></p>\n<p>Durante el curso-taller se irá construyendo una secuencia didáctica en la que la persona participante irá incorporando el uso de algunas herramientas de TICs que sirvan para alcanzar el objetivo de aprendizaje.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
             <odeComponentsProperty>
@@ -596,12 +596,12 @@
 <odeNavStructure>
   <odePageId>page-mp4ooho8-1cjl1p31d</odePageId>
   <odeParentPageId></odeParentPageId>
-  <pageName>4. Materiales de Consulta</pageName>
+  <pageName>4. Bibliografía</pageName>
   <odeNavStructureOrder>5</odeNavStructureOrder>
   <odeNavStructureProperties>
     <odeNavStructureProperty>
       <key>titlePage</key>
-      <value>4. Materiales de Consulta</value>
+      <value>4. Bibliografía</value>
     </odeNavStructureProperty>
     <odeNavStructureProperty>
       <key>visibility</key>
@@ -625,14 +625,14 @@
     </odeNavStructureProperty>
     <odeNavStructureProperty>
       <key>titleNode</key>
-      <value>4. Materiales de Consulta</value>
+      <value>4. Bibliografía</value>
     </odeNavStructureProperty>
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
       <odePageId>page-mp4ooho8-1cjl1p31d</odePageId>
       <odeBlockId>block-mp38wfg6-lcnan1mjj</odeBlockId>
-      <blockName>Materiales de Consulta</blockName>
+      <blockName>Bibliografía</blockName>
       <iconName>udl_sup_adjunto</iconName>
       <odePagStructureOrder>0</odePagStructureOrder>
       <odePagStructureProperties>
