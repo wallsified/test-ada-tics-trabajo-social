@@ -24,7 +24,7 @@
 <odeProperties>
   <odeProperty>
     <key>pp_title</key>
-    <value>Tecnologías de Información y Comunicación para Trabajo Social</value>
+    <value>ADA: Tecnologías de Información y Comunicación para Trabajo Social - Paredes Zamudio</value>
   </odeProperty>
   <odeProperty>
     <key>pp_subtitle</key>
@@ -60,7 +60,7 @@
   </odeProperty>
   <odeProperty>
     <key>pp_modified</key>
-    <value>1790609815166</value>
+    <value>1790978229684</value>
   </odeProperty>
   <odeProperty>
     <key>pp_addExeLink</key>
@@ -167,10 +167,10 @@
           <odeIdeviceId>idevice-mp38wfg5-wlwf4cwax</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
           <htmlView><![CDATA[<div class="exe-text-template">
-    <p>En la era digital, la intervención social no puede entenderse sin el respaldo de las herramientas tecnológicas.</p>
-<p>Bienvenidos al curso "Tecnologías de la Información y Comunicación (TIC) para el Trabajo Social", un espacio formativo diseñado para dotar a los futuros y actuales profesionales del Trabajo Social de las competencias digitales necesarias para potenciar su impacto en las comunidades. Este curso no solo aborda el uso de programas o dispositivos, sino que reflexiona sobre la tecnología como un medio para garantizar derechos, analizar realidades complejas y diseñar estrategias de intervención innovadoras.</p>
+    <p>Desde su aparición, la Inteligencia Artificial Generativa (IAGen) ha impactado en diversos ámbitos de la vida de las personas y la educación no ha sido la excepción. En los últimos años el personal docente se ha tenido que enfrentar a la irrupción de la IAGen en el aula. Es claro que el estudiantado la utiliza, pero ¿de qué forma? ¿Cómo conceptualizan su uso en las actividades académicas? Más aún, ¿Cómo podría el profesorado hacer un uso didáctico de la IAGen?</p>
+<p>Con este curso-taller se busca que las personas docentes reconozcan cómo es que la IAGen tiene presencia en el aula y de qué forma ellas podrían plantear estrategias didácticas para que el uso de esta tecnología no se centre en el instrumentalismo, sino que se utilice como un insumo para plantear cuestionamientos y reflexiones que contribuyan a construir un aprendizaje profundo.</p>
 </div>]]></htmlView>
-          <jsonProperties><![CDATA[{"ideviceId":"idevice-mp38wfg5-wlwf4cwax","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>En la era digital, la intervención social no puede entenderse sin el respaldo de las herramientas tecnológicas.</p>\n<p>Bienvenidos al curso \"Tecnologías de la Información y Comunicación (TIC) para el Trabajo Social\", un espacio formativo diseñado para dotar a los futuros y actuales profesionales del Trabajo Social de las competencias digitales necesarias para potenciar su impacto en las comunidades. Este curso no solo aborda el uso de programas o dispositivos, sino que reflexiona sobre la tecnología como un medio para garantizar derechos, analizar realidades complejas y diseñar estrategias de intervención innovadoras.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-mp38wfg5-wlwf4cwax","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Desde su aparición, la Inteligencia Artificial Generativa (IAGen) ha impactado en diversos ámbitos de la vida de las personas y la educación no ha sido la excepción. En los últimos años el personal docente se ha tenido que enfrentar a la irrupción de la IAGen en el aula. Es claro que el estudiantado la utiliza, pero ¿de qué forma? ¿Cómo conceptualizan su uso en las actividades académicas? Más aún, ¿Cómo podría el profesorado hacer un uso didáctico de la IAGen?</p>\n<p>Con este curso-taller se busca que las personas docentes reconozcan cómo es que la IAGen tiene presencia en el aula y de qué forma ellas podrían plantear estrategias didácticas para que el uso de esta tecnología no se centre en el instrumentalismo, sino que se utilice como un insumo para plantear cuestionamientos y reflexiones que contribuyan a construir un aprendizaje profundo.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
             <odeComponentsProperty>
@@ -262,22 +262,33 @@
           <odeIdeviceId>idevice-mp38wfg5-b9rgnss0h</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
           <htmlView><![CDATA[<div class="exe-text-template">
-    <p>Este curso taller se desarrollará del 11 de mayo al 3 de julio y comprenderá 40 horas de formación.</p>
-<p>Las video-sesiones están planeadas en un horario de 16 a 18 horas, en estos días:</p>
+    <p>Este curso taller se desarrollará del 5 de octubre al 9 de diciembre y comprenderá 40 horas de formación.</p>
+<p>Las video-sesiones están planeadas en un horario de 16 a 18 horas (lunes y miércoles), en estos días:</p>
 <ul>
-<li>11 de mayo</li>
-<li>20 de mayo</li>
-<li>27 de mayo</li>
-<li>3 de junio</li>
-<li>10 de junio</li>
-<li>17 de junio</li>
-<li>24 de junio</li>
-<li>3 de julio</li>
+<li>5 de octubre</li>
+<li>7 de octubre</li>
+<li>12 de octubre</li>
+<li>14 de octubre</li>
+<li>19 de octubre</li>
+<li>21 de octubre</li>
+<li>26 de octubre</li>
+<li>28 de octubre</li>
+<li>2 de noviembre</li>
+<li>4 de noviembre</li>
+<li>9 de noviembre</li>
+<li>11 de noviembre</li>
+<li>16 de noviembre</li>
+<li>18 de noviembre</li>
+<li>23 de noviembre</li>
+<li>25 de noviembre</li>
+<li>30 de noviembre</li>
+<li>2 de diciembre</li>
+<li>7 de diciembre<br />9 de diciembre<br /> </li>
 </ul>
-<p>El enlace de Zoom siempre es el mismo:</p>
-<p><a href="https://unam.zoom.us/j/3563790747?pwd=aF1fwE9fqUVVdlz1YbTXRAn9DlYAse.1" target="_blank" title="" rel="noopener">https://unam.zoom.us/j/3563790747?pwd=aF1fwE9fqUVVdlz1YbTXRAn9DlYAse.1</a></p>
+<p>El enlace de Zoom siempre será el mismo:</p>
+<p><a href="https://unam.zoom.us/j/3563790747?pwd=aF1fwE9fqUVVdlz1YbTXRAn9DlYAse.1" target="_blank" title="" rel="noopener">https://unam.zoom.us/j/3563790747?pwd=aF1fwE9fqUVVdlz1YbTXRn9DlYAse</a></p>
 </div>]]></htmlView>
-          <jsonProperties><![CDATA[{"ideviceId":"idevice-mp38wfg5-b9rgnss0h","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Este curso taller se desarrollará del 11 de mayo al 3 de julio y comprenderá 40 horas de formación.</p>\n<p>Las video-sesiones están planeadas en un horario de 16 a 18 horas, en estos días:</p>\n<ul>\n<li>11 de mayo</li>\n<li>20 de mayo</li>\n<li>27 de mayo</li>\n<li>3 de junio</li>\n<li>10 de junio</li>\n<li>17 de junio</li>\n<li>24 de junio</li>\n<li>3 de julio</li>\n</ul>\n<p>El enlace de Zoom siempre es el mismo:</p>\n<p><a href=\"https://unam.zoom.us/j/3563790747?pwd=aF1fwE9fqUVVdlz1YbTXRAn9DlYAse.1\" target=\"_blank\" title=\"\" rel=\"noopener\">https://unam.zoom.us/j/3563790747?pwd=aF1fwE9fqUVVdlz1YbTXRAn9DlYAse.1</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-mp38wfg5-b9rgnss0h","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Este curso taller se desarrollará del 5 de octubre al 9 de diciembre y comprenderá 40 horas de formación.</p>\n<p>Las video-sesiones están planeadas en un horario de 16 a 18 horas (lunes y miércoles), en estos días:</p>\n<ul>\n<li>5 de octubre</li>\n<li>7 de octubre</li>\n<li>12 de octubre</li>\n<li>14 de octubre</li>\n<li>19 de octubre</li>\n<li>21 de octubre</li>\n<li>26 de octubre</li>\n<li>28 de octubre</li>\n<li>2 de noviembre</li>\n<li>4 de noviembre</li>\n<li>9 de noviembre</li>\n<li>11 de noviembre</li>\n<li>16 de noviembre</li>\n<li>18 de noviembre</li>\n<li>23 de noviembre</li>\n<li>25 de noviembre</li>\n<li>30 de noviembre</li>\n<li>2 de diciembre</li>\n<li>7 de diciembre<br />9 de diciembre<br /> </li>\n</ul>\n<p>El enlace de Zoom siempre será el mismo:</p>\n<p><a href=\"https://unam.zoom.us/j/3563790747?pwd=aF1fwE9fqUVVdlz1YbTXRAn9DlYAse.1\" target=\"_blank\" title=\"\" rel=\"noopener\">https://unam.zoom.us/j/3563790747?pwd=aF1fwE9fqUVVdlz1YbTXRn9DlYAse</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
             <odeComponentsProperty>
@@ -567,12 +578,14 @@
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
           <htmlView><![CDATA[<div class="exe-text-template">
     <p>A continuación se muestra el valor porcentual de las actividades que se desarrollarán en este curso-taller.<br /></p>
-<p><strong>Actividades obligatorias - 40 %</strong></p>
-<p>Se promediarán las calificaciones de todas las actividades de aprendizaje realizadas durante el curso-taller.</p>
-<p><strong>Producto final - 60 %</strong></p>
-<p>Durante el curso-taller se irá construyendo una secuencia didáctica en la que la persona participante irá incorporando el uso de algunas herramientas de TICs que sirvan para alcanzar el objetivo de aprendizaje.</p>
+<p><strong>Exámenes - 50 %</strong></p>
+<p>Se promediarán las calificaciones de todos los exámenes realizados en el curso. Se harán, al menos, 4 exámenes (1 por cada 10 horas de contenido).</p>
+<p><strong>Tareas - 30%</strong></p>
+<p>Se promediarán las calificaciones de todas las tareas asignadas del curso. Algunas serán en equipos y otras serán de manera individual. Entre los trabajos a realizar son resúmenes del libro del curso, investigaciones cortas, etc.</p>
+<p><strong>Otras Actividades  - 20 %</strong></p>
+<p>Durante el curso-taller también se asignarán una serie de actividades didáctivas/dinámicas para complementar lo visto durante las sesiones. Por ejemplo, pueden incluir foros de opinión, videos interactivos, etc. </p>
 </div>]]></htmlView>
-          <jsonProperties><![CDATA[{"ideviceId":"idevice-mp38wfg5-6fjtintd8","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>A continuación se muestra el valor porcentual de las actividades que se desarrollarán en este curso-taller.<br /></p>\n<p><strong>Actividades obligatorias - 40 %</strong></p>\n<p>Se promediarán las calificaciones de todas las actividades de aprendizaje realizadas durante el curso-taller.</p>\n<p><strong>Producto final - 60 %</strong></p>\n<p>Durante el curso-taller se irá construyendo una secuencia didáctica en la que la persona participante irá incorporando el uso de algunas herramientas de TICs que sirvan para alcanzar el objetivo de aprendizaje.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-mp38wfg5-6fjtintd8","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>A continuación se muestra el valor porcentual de las actividades que se desarrollarán en este curso-taller.<br /></p>\n<p><strong>Exámenes - 50 %</strong></p>\n<p>Se promediarán las calificaciones de todos los exámenes realizados en el curso. Se harán, al menos, 4 exámenes (1 por cada 10 horas de contenido).</p>\n<p><strong>Tareas - 30%</strong></p>\n<p>Se promediarán las calificaciones de todas las tareas asignadas del curso. Algunas serán en equipos y otras serán de manera individual. Entre los trabajos a realizar son resúmenes del libro del curso, investigaciones cortas, etc.</p>\n<p><strong>Otras Actividades  - 20 %</strong></p>\n<p>Durante el curso-taller también se asignarán una serie de actividades didáctivas/dinámicas para complementar lo visto durante las sesiones. Por ejemplo, pueden incluir foros de opinión, videos interactivos, etc. </p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
             <odeComponentsProperty>
@@ -596,12 +609,12 @@
 <odeNavStructure>
   <odePageId>page-mp4ooho8-1cjl1p31d</odePageId>
   <odeParentPageId></odeParentPageId>
-  <pageName>4. Bibliografía</pageName>
+  <pageName>4. Materiales de Consulta</pageName>
   <odeNavStructureOrder>5</odeNavStructureOrder>
   <odeNavStructureProperties>
     <odeNavStructureProperty>
       <key>titlePage</key>
-      <value>4. Bibliografía</value>
+      <value>4. Materiales de Consulta</value>
     </odeNavStructureProperty>
     <odeNavStructureProperty>
       <key>visibility</key>
@@ -625,14 +638,14 @@
     </odeNavStructureProperty>
     <odeNavStructureProperty>
       <key>titleNode</key>
-      <value>4. Bibliografía</value>
+      <value>4. Materiales de Consulta</value>
     </odeNavStructureProperty>
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
       <odePageId>page-mp4ooho8-1cjl1p31d</odePageId>
       <odeBlockId>block-mp38wfg6-lcnan1mjj</odeBlockId>
-      <blockName>Bibliografía</blockName>
+      <blockName>Materiales de Consulta</blockName>
       <iconName>udl_sup_adjunto</iconName>
       <odePagStructureOrder>0</odePagStructureOrder>
       <odePagStructureProperties>
@@ -779,13 +792,13 @@
 <ul>
 <li><strong>Autora de contenidos</strong>: Ma. Elizabeth Martínez Sánchez</li>
 <li><strong>Diseño tecnopedagógico: </strong>Cinthia Selene Vite García</li>
-<li><strong>Adaptación tecnológica:</strong> Nora Elizabeth Tapia Ruiz</li>
+<li><strong>Adaptación tecnológica:</strong> Luis Daniel Paredes Zamudio</li>
 <li><strong>Imágenes de portada y actividades:</strong> Elizabeth Ortiz Caballero</li>
 </ul>
 <p><strong></strong><br /></p>
 <p><strong>    D.R.© 2023_UNAM_CC-BY-NC-SA</strong></p>
 </div>]]></htmlView>
-          <jsonProperties><![CDATA[{"ideviceId":"idevice-mp38wfg6-9sj0pq2qk","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><img src=\"{{context_path}}/content/resources/DGTIC_forms_HQ.png\" width=\"300\" height=\"83\" alt=\"\" style=\"float: left;\" /><br /></p>\n<p><br /></p>\n<p><br /></p>\n<p><br /></p>\n<ul>\n<li><strong>Autora de contenidos</strong>: Ma. Elizabeth Martínez Sánchez</li>\n<li><strong>Diseño tecnopedagógico: </strong>Cinthia Selene Vite García</li>\n<li><strong>Adaptación tecnológica:</strong> Nora Elizabeth Tapia Ruiz</li>\n<li><strong>Imágenes de portada y actividades:</strong> Elizabeth Ortiz Caballero</li>\n</ul>\n<p><strong></strong><br /></p>\n<p><strong>    D.R.© 2023_UNAM_CC-BY-NC-SA</strong></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-mp38wfg6-9sj0pq2qk","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><img src=\"{{context_path}}/content/resources/DGTIC_forms_HQ.png\" width=\"300\" height=\"83\" alt=\"\" style=\"float: left;\" /><br /></p>\n<p><br /></p>\n<p><br /></p>\n<p><br /></p>\n<ul>\n<li><strong>Autora de contenidos</strong>: Ma. Elizabeth Martínez Sánchez</li>\n<li><strong>Diseño tecnopedagógico: </strong>Cinthia Selene Vite García</li>\n<li><strong>Adaptación tecnológica:</strong> Luis Daniel Paredes Zamudio</li>\n<li><strong>Imágenes de portada y actividades:</strong> Elizabeth Ortiz Caballero</li>\n</ul>\n<p><strong></strong><br /></p>\n<p><strong>    D.R.© 2023_UNAM_CC-BY-NC-SA</strong></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
             <odeComponentsProperty>
