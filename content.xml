@@ -24,19 +24,11 @@
 <odeProperties>
   <odeProperty>
     <key>pp_title</key>
-    <value>ADA: Tecnologías de Información y Comunicación para Trabajo Social - Paredes Zamudio</value>
-  </odeProperty>
-  <odeProperty>
-    <key>pp_subtitle</key>
-    <value>Version modificada</value>
+    <value>ADA: Tecnologías de Información y Comunicación para Trabajo Social</value>
   </odeProperty>
   <odeProperty>
     <key>pp_author</key>
     <value>DGTIC/DITE</value>
-  </odeProperty>
-  <odeProperty>
-    <key>pp_description</key>
-    <value>Información General</value>
   </odeProperty>
   <odeProperty>
     <key>pp_lang</key>
@@ -60,7 +52,7 @@
   </odeProperty>
   <odeProperty>
     <key>pp_modified</key>
-    <value>1790978229684</value>
+    <value>1790979617839</value>
   </odeProperty>
   <odeProperty>
     <key>pp_addExeLink</key>
@@ -88,7 +80,7 @@
   </odeProperty>
   <odeProperty>
     <key>pp_globalFont</key>
-    <value>nunito</value>
+    <value>atkinson-hyperlegible-next</value>
   </odeProperty>
   <odeProperty>
     <key>pp_screenshot</key>
@@ -167,10 +159,10 @@
           <odeIdeviceId>idevice-mp38wfg5-wlwf4cwax</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
           <htmlView><![CDATA[<div class="exe-text-template">
-    <p>Desde su aparición, la Inteligencia Artificial Generativa (IAGen) ha impactado en diversos ámbitos de la vida de las personas y la educación no ha sido la excepción. En los últimos años el personal docente se ha tenido que enfrentar a la irrupción de la IAGen en el aula. Es claro que el estudiantado la utiliza, pero ¿de qué forma? ¿Cómo conceptualizan su uso en las actividades académicas? Más aún, ¿Cómo podría el profesorado hacer un uso didáctico de la IAGen?</p>
-<p>Con este curso-taller se busca que las personas docentes reconozcan cómo es que la IAGen tiene presencia en el aula y de qué forma ellas podrían plantear estrategias didácticas para que el uso de esta tecnología no se centre en el instrumentalismo, sino que se utilice como un insumo para plantear cuestionamientos y reflexiones que contribuyan a construir un aprendizaje profundo.</p>
+    <p>En la era digital, la intervención social no puede entenderse sin el respaldo de las herramientas tecnológicas.<br /></p>
+<p>Bienvenidos al curso <strong>"Tecnologías de la Información y Comunicación (TIC) para el Trabajo Social",</strong> un espacio formativo diseñado para dotar a los futuros y actuales profesionales del Trabajo Social de las competencias digitales necesarias para potenciar su impacto en las comunidades. Este curso no solo aborda el uso de programas o dispositivos, sino que reflexiona sobre la tecnología como un medio para garantizar derechos, analizar realidades complejas y diseñar estrategias de intervención innovadoras.</p>
 </div>]]></htmlView>
-          <jsonProperties><![CDATA[{"ideviceId":"idevice-mp38wfg5-wlwf4cwax","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Desde su aparición, la Inteligencia Artificial Generativa (IAGen) ha impactado en diversos ámbitos de la vida de las personas y la educación no ha sido la excepción. En los últimos años el personal docente se ha tenido que enfrentar a la irrupción de la IAGen en el aula. Es claro que el estudiantado la utiliza, pero ¿de qué forma? ¿Cómo conceptualizan su uso en las actividades académicas? Más aún, ¿Cómo podría el profesorado hacer un uso didáctico de la IAGen?</p>\n<p>Con este curso-taller se busca que las personas docentes reconozcan cómo es que la IAGen tiene presencia en el aula y de qué forma ellas podrían plantear estrategias didácticas para que el uso de esta tecnología no se centre en el instrumentalismo, sino que se utilice como un insumo para plantear cuestionamientos y reflexiones que contribuyan a construir un aprendizaje profundo.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-mp38wfg5-wlwf4cwax","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>En la era digital, la intervención social no puede entenderse sin el respaldo de las herramientas tecnológicas.<br /></p>\n<p>Bienvenidos al curso <strong>\"Tecnologías de la Información y Comunicación (TIC) para el Trabajo Social\",</strong> un espacio formativo diseñado para dotar a los futuros y actuales profesionales del Trabajo Social de las competencias digitales necesarias para potenciar su impacto en las comunidades. Este curso no solo aborda el uso de programas o dispositivos, sino que reflexiona sobre la tecnología como un medio para garantizar derechos, analizar realidades complejas y diseñar estrategias de intervención innovadoras.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
             <odeComponentsProperty>
